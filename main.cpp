@@ -13,6 +13,6 @@ int mutliplication (int x, int y)
 
 int main(){
 	
-	printf("adition = %d, soustraction = %d, multiplication = %d\n", adition(2, 2), soustraction(2, 2), multiplication(2, 2));
+	printf("adition = %d, soustraction = %d, multiplication = %d\n", adition(2, 2), soustraction(2, 2), multiplication(6, 2));
 
 return 0;
